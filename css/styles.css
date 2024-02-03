@@ -1,0 +1,30 @@
+body {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(247, 247, 247);
+    background-color: #121212;
+    margin-top: 20px;
+}
+
+#wrapper {
+
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #121212;
+    padding: 25px;
+}
+
+a:link, a:visited {
+
+    text-decoration: none;
+    line-height: 1.6;
+    color: rgb(127, 21, 189)
+}
+
+a:hover {
+
+    text-decoration: underline;
+    color: #ffffff;
+    line-height: 1.6;
+}
