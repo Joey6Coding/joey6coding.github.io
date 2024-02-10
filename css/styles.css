@@ -28,3 +28,9 @@ a:hover {
     color: #ffffff;
     line-height: 1.6;
 }
+
+#welcome {
+
+    font-size: 1.5em;
+    font-style: oblique;
+}
