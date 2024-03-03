@@ -7,3 +7,5 @@ if(hours >= 4 && hours < 12) {
 } else if(hours >= 17 || hours < 4) {
     welcome.textContent = 'Good Evening';
 }
+
+localStorage.setItem("It's a secret to everybody.", 'This is a secret message')
